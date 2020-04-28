@@ -1,3 +1,5 @@
+/* Arturo Camacho Hernandez 15451 */
+
 $(document).ready(function(){
     $.get("scripts/libreria.xml", {}, function(xml){
         $('libreria', xml).each(function(){

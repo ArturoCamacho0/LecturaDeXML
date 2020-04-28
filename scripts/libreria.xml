@@ -30,4 +30,10 @@
         <nombre>Un mundo Feliz</nombre>
         <año>2000</año>
     </libro>
+
+    <libro>
+        <id>6</id>
+        <nombre>Arturo Camacho</nombre>
+        <año>1999</año>
+    </libro>
 </libreria>
