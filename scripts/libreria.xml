@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<libreria>
+    <libro>
+        <id>1</id>
+        <nombre>Harry Potter</nombre>
+        <año>1997</año>
+    </libro>
+
+    <libro>
+        <id>2</id>
+        <nombre>Android</nombre>
+        <año>2010</año>
+    </libro>
+
+    <libro>
+        <id>3</id>
+        <nombre>Bases de Datos</nombre>
+        <año>2017</año>
+    </libro>
+
+    <libro>
+        <id>4</id>
+        <nombre>Pequeño Cerdo</nombre>
+        <año>2013</año>
+    </libro>
+
+    <libro>
+        <id>5</id>
+        <nombre>Un mundo Feliz</nombre>
+        <año>2000</año>
+    </libro>
+</libreria>
